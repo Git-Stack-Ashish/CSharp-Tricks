@@ -1,0 +1,10 @@
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe.config
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\bin\Debug\CSharp.pdb
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\obj\Debug\CSharp.exe
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\obj\Debug\CSharp.pdb
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\bin\Debug\PracticeLibrary.dll
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\bin\Debug\PracticeLibrary.pdb
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\obj\Debug\CSharp.csprojAssemblyReference.cache
+D:\Project\PracticeApps\CSharp\CSharp\CSharp\obj\Debug\CSharp.csproj.CopyComplete

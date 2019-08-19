@@ -1,0 +1,6 @@
+D:\Project\PracticeApps\CSharp\CSharp\PracticeLibrary\bin\Debug\PracticeLibrary.dll
+D:\Project\PracticeApps\CSharp\CSharp\PracticeLibrary\bin\Debug\PracticeLibrary.pdb
+D:\Project\PracticeApps\CSharp\CSharp\PracticeLibrary\obj\Debug\PracticeLibrary.csprojAssemblyReference.cache
+D:\Project\PracticeApps\CSharp\CSharp\PracticeLibrary\obj\Debug\PracticeLibrary.csproj.CoreCompileInputs.cache
+D:\Project\PracticeApps\CSharp\CSharp\PracticeLibrary\obj\Debug\PracticeLibrary.dll
+D:\Project\PracticeApps\CSharp\CSharp\PracticeLibrary\obj\Debug\PracticeLibrary.pdb

@@ -1,0 +1,9 @@
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.deps.json
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.dll
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.pdb
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.csprojAssemblyReference.cache
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.csproj.CoreCompileInputs.cache
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfoInputs.cache
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfo.cs
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.dll
+D:\Project\PracticeApps\CSharp\CSharp\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.pdb
